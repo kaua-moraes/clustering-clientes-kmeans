@@ -1,0 +1,7 @@
+Idade,Renda,Score,Cluster
+31,40000,65,1
+35,50000,70,1
+33,45000,68,1
+29,30000,55,1
+
+## clientes de 29 anos ou mais com renda media e Score médio ###

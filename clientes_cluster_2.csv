@@ -1,0 +1,6 @@
+Idade,Renda,Score,Cluster
+45,60000,81,2
+52,72000,85,2
+48,65000,78,2
+
+###Clientes de 45 anos ou mais com renda alta e Score alto ####
